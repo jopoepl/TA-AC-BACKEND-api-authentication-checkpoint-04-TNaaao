@@ -1,0 +1,3 @@
+Basic concepts clear, moving on to REAAACTT
+
+will come back to APIs later......
